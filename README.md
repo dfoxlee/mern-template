@@ -18,4 +18,12 @@ Template to help create a new application utilizing the MERN stack and common li
 
 
 ## To Use
-1. 
+Clone the repository and install libraries in the client and server directory
+
+```bash
+git clone https://github.com/dfoxlee/mern-template.git
+cd mern-template/client
+npm install
+cd ../server
+npm install
+```
